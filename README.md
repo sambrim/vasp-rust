@@ -33,6 +33,3 @@ The script automatically detects and processes files with the following extensio
 * `.m4v`
 * `.webm`
 ---
-
-```bash
-python vasp.py
